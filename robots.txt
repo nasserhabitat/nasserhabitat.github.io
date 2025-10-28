@@ -1,1 +1,8 @@
+User-agent: *
+Allow: /
 
+# Sitemap Pro
+Sitemap: https://a520098.sitemaphosting7.com/4624346/sitemap_4624346.xml
+
+# Local Sitemaps
+Sitemap: https://nasserhabitat.github.io/nasser-books/sitemap.xml
